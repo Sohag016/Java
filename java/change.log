@@ -1,0 +1,6 @@
+public class chnge{
+public static void main (str[] .args){
+int n=13;
+system .out.print(n);
+}
+}
